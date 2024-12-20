@@ -6,6 +6,7 @@
     android-studio     
     jetbrains.idea-community-bin
     temurin-bin
+    maven
     rustup
     go
     podman
