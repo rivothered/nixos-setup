@@ -5,6 +5,7 @@
     firefox
     spotify
     vesktop
+    postman
     corefonts
     vistafonts
   ];
