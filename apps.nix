@@ -4,7 +4,7 @@
   environment.systemPackages = with pkgs; [
     firefox
     spotify
-    vencord
+    vesktop
     corefonts
     vistafonts
   ];
